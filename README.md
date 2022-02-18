@@ -17,7 +17,7 @@ Before running the solution, Flask, Selenium and a chromedriver is required to b
 
 <h3>Running the Web Server</h3>
 To run the web server, type:<br>
-1. <b>cd \WebServerWithAutomatedTesting\venv</b><br>
+1. <b>cd \WebServerWithAutomatedTesting-main\venv</b><br>
 2. <b>Scripts\activate</b><br>
 3. <b>cd webserver</b><br>
 4. <b>set FLASK_APP=server</b><br>
@@ -25,6 +25,6 @@ To run the web server, type:<br>
 
 <h3>Running the Automated Test</h3>
 To run the automated test, type:<br>
-1. <b>cd \WebServerWithAutomatedTesting\venv\Test<b><br>
+1. <b>cd \WebServerWithAutomatedTesting-main\venv\Test<b><br>
 2. <b>main</b><br>
 (Note: Step 2 can also work with <b>main.py</b>)
