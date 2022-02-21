@@ -24,7 +24,7 @@ To run the web server, type:<br>
 5. <b>flask run</b><br>
 
 <h3>Running the Automated Test</h3>
-To run the automated test, type:<br>
+To run the automated test the webserver must been running first, therefore, open a new terminal and type:<br>
 1. <b>cd \WebServerWithAutomatedTesting-main\venv\Test<b><br>
 2. <b>main</b><br>
 (Note: Step 2 can also work with <b>main.py</b>)
