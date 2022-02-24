@@ -1,8 +1,11 @@
 <h1>WebServerWithAutomatedTesting</h1>
 <h2>Introduction</h2>
 This solution uses Flask to accomplish a simple web server that takes a user's name/input in a form, and diplays the user's input as in the format "Hello [user's input]"
-The automated testing is written in python  and is accomplished by using the Selenium library for automated testing. The test itself simulates a full journey from the user's input to the display at the endpoint. 
+The automated testing is written in python  and is accomplished by using the Selenium library for automated testing. The test itself simulates a full journey from the user's input to the display at the endpoint.
 <br>
+To review the code for the webserver see:https://github.com/KTheCreator/WebServerWithAutomatedTesting/tree/main/venv/webserver
+To review the code for the automated test see:https://github.com/KTheCreator/WebServerWithAutomatedTesting/tree/main/venv/Test
+To see the templates used for the webpages see:https://github.com/KTheCreator/WebServerWithAutomatedTesting/tree/main/venv/templates
 <h2>Instructions</h2>
 <h3>Setting Up</h3>
 Before running the solution, Flask, Selenium and a chromedriver is required to be installed on the system. 
